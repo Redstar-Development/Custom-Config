@@ -1,0 +1,6 @@
+name: BCR Spigot
+main: com.java.source.customconfig.CustomConfig
+version: 0.1
+description: BCRSpigot
+
+commands:
